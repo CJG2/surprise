@@ -1028,27 +1028,3 @@ p {
     transition: opacity 0.3s ease;
 }
 
-@keyframes rebond {
-    0% {
-        transform: translateY(0);
-    }
-    20% {
-        transform: translateY(-10px);
-    }
-    40% {
-        transform: translateY(0);
-    }
-    60% {
-        transform: translateY(-5px);
-    }
-    80% {
-        transform: translateY(0);
-    }
-    100% {
-        transform: translateY(0);
-    }
-}
-
-.rebound {
-    animation: rebond 1s ease infinite;
-}
