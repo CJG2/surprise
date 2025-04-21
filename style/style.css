@@ -1023,7 +1023,7 @@ p {
 }
 
 #giftImage {
-    width: 600px; /* Ajustez la taille de l'image */
+    width: 50%; /* Ajustez la taille de l'image */
     cursor: pointer;
     transition: opacity 0.3s ease;
 }
